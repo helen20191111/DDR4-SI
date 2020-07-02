@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestMsg_Core", "TestMsg_Core.vcproj", "{8E485506-299F-443D-9FE2-53B3FC091E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Core_0|Pocket PC 2003 (ARMV4) = Core_0|Pocket PC 2003 (ARMV4)
+		Core_0|Win32 = Core_0|Win32
+		Core_1|Pocket PC 2003 (ARMV4) = Core_1|Pocket PC 2003 (ARMV4)
+		Core_1|Win32 = Core_1|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_0|Pocket PC 2003 (ARMV4).ActiveCfg = Core_0|Win32
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_0|Pocket PC 2003 (ARMV4).Deploy.0 = Core_0|Win32
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_0|Win32.ActiveCfg = Core_0|Win32
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_1|Pocket PC 2003 (ARMV4).ActiveCfg = Core_1|Pocket PC 2003 (ARMV4)
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_1|Pocket PC 2003 (ARMV4).Build.0 = Core_1|Pocket PC 2003 (ARMV4)
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_1|Pocket PC 2003 (ARMV4).Deploy.0 = Core_1|Pocket PC 2003 (ARMV4)
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_1|Win32.ActiveCfg = Core_1|Win32
+		{8E485506-299F-443D-9FE2-53B3FC091E8F}.Core_1|Win32.Build.0 = Core_1|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
